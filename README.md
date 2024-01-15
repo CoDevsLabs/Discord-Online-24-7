@@ -1,14 +1,24 @@
-# Discord-Online-Forever
-Keep ypou Discord profile online forever
+# Discord Online 24/7
+Keep your Discord profile online 24/7
 
-1. Register Replit - https://Replit.com
-2. Run on Replit - https://replit.com/new/github/Gunthersuper/Discord-Online-Forever
-3. Get Token of your Discord:
-  - Login to your Discord in the browser
-  - Press: CTRL+SHITT+I or F12. Go to Network. Click some dialogue or some server
-  - Find sciense. Go to Headers. In request headers find: authorization. Copy this token
-4. Go to replit, secrets. make new secret. Key is token, and value is your token
-5. Run the bot
-6. Go to https://uptimerobot.com, register. Click: Add new moinitor
-7. Monitor type is HTTP. Url is address you get on replit. Click create monitor (2 times)
-8. Make sure the last session you was online
+## Copyright Disclaimer
+© Copyright [2023] [CODEV'S LABS]
+
+This script is provided by CoDevs Labs and is free to use and modify for non-commercial purposes only. You may not use this script, or any modified version of it, for commercial purposes without explicit permission from CoDevs Labs.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this script and associated documentation files (the "Script"), to use, copy, modify, and merge the Script for non-commercial purposes, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Script.
+
+2. Commercial use of the Script or any modified version of it is strictly prohibited without prior written permission from CoDevs Labs.
+
+codevsindia@gmail.com
+
+Discord
+https://discord.gg/2qvFMnZeCn
+
+Instagram
+https://instagram.com/codevsguru
+
+Telegram
+https://t.me/codevsguru
